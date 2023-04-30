@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://i.imgur.com/q2cE9yC.png" alt=" screenshot of the screen ">
+<img src="https://i.imgur.com/8O74eJQ.png" alt=" screenshot of the screen ">
 
 
 ### Links
